@@ -1,0 +1,4 @@
+rss_reader.db
+feed_cache.json
+__pycache__/
+*.pyc
